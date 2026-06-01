@@ -1,5 +1,4 @@
 # Live-Currency-Strength-HeatMap
-# Live FX Currency Strength Dashboard
 
 A Python-based dashboard that analyzes and visualizes relative strength across major currencies using real-time foreign exchange data.
 
